@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+this is a text file
+=======
+This is a new line of text
+This is a new line of text
+This is a new line of text
+This is a new line of text
+This is a new line of text
+>>>>>>> main
